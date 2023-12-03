@@ -1,5 +1,5 @@
-# Python Class - Download and Installing Anaconda for Python Steps
-Downloading and installing Anaconda for Python on both Windows and macOS, as well as configuring it for Computer Vision, Data Science, and Deep Learning involves several steps. Here's a step-by-step guide:
+# Python Class - Download and Installing Anaconda for Python
+This was created for my Python students: Downloading and installing Anaconda for Python on both Windows and macOS, as well as configuring it for Computer Vision, Data Science, and Deep Learning involves several steps. Here's a step-by-step guide:
 
 # For Windows:
 ### Downloading Anaconda:
